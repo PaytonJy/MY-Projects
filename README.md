@@ -8,7 +8,8 @@ No, you should not share the ".expo" folder. It does not contain any information
 Upon project creation, the ".expo" folder is already added to your ".gitignore" file.
 
 >Getting Started
--Extract compuquiz
+- Clone the Repository: Start by cloning the repository using the command 
+"git clone"  in a command line terminal.
 - Navigate into the project directory: Move into the project directory using "cd compuquiz". This should be done in a command line terminal.
 - Install the dependencies: Install with the command "npm install --force"
 - Running the App: To Launch the App use the command 
